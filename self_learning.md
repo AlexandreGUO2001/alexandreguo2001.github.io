@@ -1,3 +1,15 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
 # Handbook for Self-Learning Mathematics
 
 As an undergraduate student, you can never underestimate how indispensable **self-learning** is. Because attending the classes, especially in PKU, may not always be the most efficacious way to master the knowledge and help you do well in exams. And I am more than upset to see that, in School of Mathematical Sciences of PKU, the teaching quality of many courses has ample room for improvement. Many courses, such as *Abstract Algebra* and *Mathematical Statistics*, still use out-dated textbooks, such as the so-called “little yellow books” published by PKU publishing house decades ago, that are not only badly composed – few is edited by $\LaTeX$ and the font is ugly, but also unintelligible and incomprehensible. Consequently, those books seriously puncture students’ interest of the knowledge and deter us from learning efficiently and happily, not to mention laying a solid foundation for the future study. And besides, some of the teachers, deficient of the ardor of teaching and even the sense of responsibility, teach lectures in a way that transforms learning into a torture. 
