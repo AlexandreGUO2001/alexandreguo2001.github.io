@@ -8,4 +8,4 @@
 
 *To be continued*
 
-**<font color=red><a href="/index.html">回到主页</a></font>**
+**<a href="/index.html">回到主页</a>**
