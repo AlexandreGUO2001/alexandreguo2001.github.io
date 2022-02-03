@@ -52,6 +52,6 @@ This plan is greatly inspired by <https://csdiy.wiki/>, and I regard it as an ex
 
 
 
-**<font color=red><a href="/index.html">Back to the Main Page</a></font>**
+**<a href="/index.html">Back to the Main Page</a>**
 
 ###### Last Update: Jan 31st, 2022
