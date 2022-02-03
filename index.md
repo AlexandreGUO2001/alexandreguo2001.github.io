@@ -14,4 +14,4 @@ I am also interested in *la langue française* (the French language), vernacular
 
 ## <a href="/self_learning.html">Handbook for Self-Learning Mathematics</a>
 
-## <a href="/english.html">Tips for Learning English</a>
+## <a href="/english.html">Tips for Learning English (In Chinese)</a>
