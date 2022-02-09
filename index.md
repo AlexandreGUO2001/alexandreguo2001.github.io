@@ -16,6 +16,6 @@ I am also interested in *la langue française* (the French language), vernacular
 
 Coming up in the future.
 
-## <a href="/self_learning.html">Mathematics Self-Learning Handbook</a>
+## <a href="/self_learning.html">Handbook for Self-Learning Mathematics</a>
 
 ## <a href="english/english_main.html">Tips for Learning English (In Chinese)</a>
