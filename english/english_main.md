@@ -4,27 +4,38 @@
 
 ## GRE
 
-- 考试介绍：
+### 考试介绍
 
 皇冠GRE系列：[GRE小白到大神扫盲科普篇](https://www.bilibili.com/video/BV1NK4y1s7Z7)，[GRE小白到大神备考规划篇](https://www.bilibili.com/video/BV11y4y1p7qi)
 
-- 教学课程：
+### 教学课程
 
 1. 皇冠GRE系列：[GRE阅读核心理论](https://www.bilibili.com/video/BV1gh41117J1)，[GRE填空核心理论](https://www.bilibili.com/video/BV1X5411E77u)
 
 2. B站[**微臣教育**](https://space.bilibili.com/393277742)
 
-- 背单词：
+### 背单词
 
-词表用公众号**皇冠美研**的小程序**抖词G版**，牢记这些应该有160的水平，做往年题遇到不熟悉的再背即可。
+词表用微信公众号**皇冠美研**的小程序**抖词G版**，牢记这些应该有160的水平，做往年题遇到不熟悉的再背即可。
 
 查单词推荐先查有道的牛津高阶初步了解大意，再用[Merriam-Webster](https://www.merriam-webster.com/)查生僻意思。
+
+### 刷题
+
+1. 微信公众号**皇冠美研**的资料（后台回复“资料”有百度网盘链接），主要刷这个，虽然年代有点久远但是难度基本一致。不要去求什么最新的题，幻想这考场上遇到一模一样的题目，完全没有必要！
+
+2. [皇冠的机考系统](https://www.gre.vip/home)有1套免费测试题，[ETS报名官网](https://ereg.ets.org/ereg/public/jump?_p=GRI)有2套免费测试题，可以熟悉一下电脑做题的感觉，跟真实考试的界面还挺像的，只是真实考试题目和选项的字体都是<a font="Times New Roman">Times New Roman</a>。
 
 ## TOEFL
 
 ### 教学视频
 
 皇冠TOEFL系列：[皇冠TOEFL小白到大神核心理论篇75讲](https://www.bilibili.com/video/BV1xh411H7H1)
+
+### TPO (=TOEFL Practice Online)
+
+1. 首推[新东方官网的TPO](https://liuxue.koolearn.com/toefl/read/)，开放TPO 1~54，界面真实，做题体验好，解析比较全，适合初期以小题为单位刷题（如专做口语Q1）。
+2. [小意思托福TPO模考软件](http://www.xiaoxiaoyisi.com/)有55套到最新的TPO，有答案但是解析不是很全，适合成套刷题。
 
 ### 阅读
 
@@ -62,4 +73,4 @@
 
 **<a href="/index.html">回到主页</a>**
 
-> 最后更新：2022年2月16日
+> <u>最后更新：2022年2月16日</u>
