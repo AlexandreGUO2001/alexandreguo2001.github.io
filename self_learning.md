@@ -50,8 +50,9 @@ This plan is greatly inspired by <https://csdiy.wiki/>, and I regard it as an ex
 
 
 
+*To be continued*
 
 
-**<a href="/index.html">Return to the Main Page</a>**
 
-> ==Last Update: Jan 31st, 2022==
+| **<a href="/index.html">Return to the main page</a>** | **Last Update: Jan 31st, 2022** |
+| :------------------------------------- | --------------------------: |
