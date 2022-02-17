@@ -55,4 +55,3 @@ This plan is greatly inspired by <https://csdiy.wiki/>, and I regard it as an ex
 
 
 | **<a href="/index.html">Return to the main page</a>** | **Last Update: Jan 31st, 2022** |
-| :------------------------------------- | --------------------------: |
