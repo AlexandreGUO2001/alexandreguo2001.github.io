@@ -2,7 +2,7 @@
 
 ## About Me
 
-**Email**: `alexanderguo2001@pku.edu.cn`
+**Email**: `weiguo@pku.edu.cn`
 
 **Github**: [@AlexandreGUO2001](https://github.com/AlexandreGUO2001)
 
@@ -16,6 +16,6 @@ I am also interested in *la langue française* (the French language), vernacular
 
 Coming up in the future.
 
-## <a href="/self_learning.html">Handbook for Self-Learning Mathematics</a>
+<!-- ## <a href="/self_learning.html">Handbook for Self-Learning Mathematics</a> -->
 
 ## <a href="english/english_main.html">Tips for Learning English (In Chinese)</a>
