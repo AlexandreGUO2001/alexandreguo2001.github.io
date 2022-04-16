@@ -20,7 +20,7 @@ Coming up in the future.
 
 ## Talks
 
-<a href="/talks/intro_stat.html">A Brief Introduction to the Field of Statistics (for Freshmen and Sophomores), Apr. 18th 2022, at PKU (In Chinese)</a>
+<a href="/talks/intro_stat.html">A Brief Introduction to the Field of Statistics (for Freshmen and Sophomores), Apr. 17th 2022, at PKU (In Chinese)</a>
 
 ## <a href="/self_learning.html">Handbook for Self-Learning Mathematics</a>
 
