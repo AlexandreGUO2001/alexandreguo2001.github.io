@@ -10,6 +10,9 @@
     </script>
 </head>
 
+
+
+
 # Midterm Exam for *Mathematical Statistics (Honor)*, Fall 2021
 
 Teacher: Fang YAO. Recalled and $\LaTeX$ed by: Wei GUO. **This version is not verbatim.**
@@ -18,7 +21,7 @@ Teacher: Fang YAO. Recalled and $\LaTeX$ed by: Wei GUO. **This version is not ve
 
 Suppose that $(\xi_n,\eta_n)\sim_{\rm i.i.d.}{\cal N}(0,{\rm diag}\{\sigma^2,\tau^2\})$ for $n\ge 0$, where $\sigma,~\tau>0$ are constants. Let $X_0=0$, $X_{n+1}=a_nX_n+\xi_{n+1}$ and $Y_n=cX_n+\eta_n$ for $n\ge 0$, where $a_n,~c\ne 0$ are constants. Define
 
-$$\widehat X_n=\mathbb{E}[X_n|Y_0,Y_1,...,Y_{n-1}],~P_n=\mathbb{E}(X_n-\hat X_n)^2,~n\ge 1.$$
+$$\widehat X_n=\mathbb{E}[X_n\vert Y_0,Y_1,...,Y_{n-1}],~P_n=\mathbb{E}(X_n-\hat X_n)^2,~n\ge 1.$$
 
 1. Show that $\widehat X_{n+1}=a_n\left(\widehat X_n+\frac{cP_n}{c^2P_n+\tau^2}(Y_n-c\widehat X_n)\right)$.
 
@@ -55,7 +58,7 @@ Let $X_1,...,X_n\sim_{\rm i.i.d.}{\cal N}(\mu,\sigma^2)$ where $\mu,\sigma^2$ ar
 
 3. Find the Bayesian estimator w.r.t. the prior
 
-   $$\frac{1}{\sigma^2}\sim\frac{1}{m\sigma_0^2}\chi_m^2,~\mu|\sigma^2\sim{\cal N}\left(\mu_0,\frac{\sigma^2}{\kappa}\right),$$
+   $$\frac{1}{\sigma^2}\sim\frac{1}{m\sigma_0^2}\chi_m^2,~\mu\vert\sigma^2\sim{\cal N}\left(\mu_0,\frac{\sigma^2}{\kappa}\right),$$
    where $\mu_0,\kappa,m,\sigma_0^2$ are prespecified. The p.d.f. of $\chi_m^2$ is
    $$x\mapsto\frac{1}{2^{\frac{m}{2}}\Gamma(\frac{m}{2})}u^{\frac{m}{2}-1}\exp\left(-\frac{u}{2}\right)\mathbb{I}_{x>0}.$$
 
@@ -65,10 +68,10 @@ Define $y\sim{\cal N}_p(\beta,\sigma^2I_p)$, $z\sim{\cal N}_p(\lambda\beta,\sigm
 
 1. Find the m.l.e. for $\lambda$ and show that its mean squared error can be infinite.
 
-2. Compute Jeffrey's prior on $(\lambda,\beta,\sigma^2)$ and show that the corresponding posterior expectation of $\lambda$ is the inverse regression estimator $\hat\lambda^{\rm I}=y'z/(s^2+||y||^2)$.
+2. Compute Jeffrey's prior on $(\lambda,\beta,\sigma^2)$ and show that the corresponding posterior expectation of $\lambda$ is the inverse regression estimator $\hat\lambda^{\rm I}=y'z/(s^2+\Vert y\Vert^2)$.
 
 3. Using the reference prior technique, derive the corresponding posterior expectation $\hat\lambda^{\rm R}$ of $\lambda$.
 
 4. Show that, as $q\to+\infty$, $\hat\lambda^{\rm I}\to_{\rm a.s.} 0$, but $\hat\lambda^{\rm R}$ is free of this inconsistency.
 
-*Reminders*: Jeffrey's prior is given by $\pi(\theta)\propto\sqrt{\det{\cal I}(\theta)}$ where ${\cal I}(\theta)$ is the Fisher information matrix. When $x$ has pdf $f(x|\theta_1,\theta_2)$ where $\theta_1$ is the parameter of interest, the reference prior is obtained by first defining $\pi(\theta_2|\theta_1)$ as Jeffrey's prior associated with $f(x|\theta_1,\theta_2)$ when $\theta_1$ is fixed, then deriving the marginal p.d.f. $\tilde{f}(x|\theta_1)=\int f(x|\theta_1,\theta_2)\pi(\theta_2|\theta_1)\,{\rm d}\theta_2$, and computing Jeffrey's prior $\pi(\theta_1)$ associated with $\tilde{f}(x|\theta_1)$.
+*Reminders*: Jeffrey's prior is given by $\pi(\theta)\propto\sqrt{\det{\cal I}(\theta)}$ where ${\cal I}(\theta)$ is the Fisher information matrix. When $x$ has pdf $f(x\vert\theta_1,\theta_2)$ where $\theta_1$ is the parameter of interest, the reference prior is obtained by first defining $\pi(\theta_2\vert\theta_1)$ as Jeffrey's prior associated with $f(x\vert\theta_1,\theta_2)$ when $\theta_1$ is fixed, then deriving the marginal p.d.f. $\tilde{f}(x\vert\theta_1)=\int f(x\vert\theta_1,\theta_2)\pi(\theta_2\vert\theta_1)\,{\rm d}\theta_2$, and computing Jeffrey's prior $\pi(\theta_1)$ associated with $\tilde{f}(x\vert\theta_1)$.
