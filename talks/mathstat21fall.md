@@ -31,8 +31,9 @@ $$\widehat X_n=\mathbb{E}[X_n\vert Y_0,Y_1,...,Y_{n-1}],~P_n=\mathbb{E}(X_n-\hat
 
 Suppose $(Y_{11i},Y_{12i},Y_{21i},Y_{22i})\sim\mathrm{Multinomial}\left(m;\frac{1+\theta_i}{4},\frac{1-\theta_i}{4},\frac{1-\theta_i}{4},\frac{1+\theta_i}{4}\right)$, $1\le i\le n$ are independent, where $m$ is given, and
 
-$$\log\frac{1+\theta_i}{1-\theta_i}=\alpha+\beta x_i,~1\le i\le n,$$
-where $\alpha,~\beta$ are unknown parameters, and $x_1,...,x_n$ are known constants.
+$$\log\frac{1+\theta_i}{1-\theta_i}=\alpha+\beta x_i, ~ 1\le i\le n.$$
+
+Where $\alpha,~\beta$ are unknown parameters, and $x_1,...,x_n$ are known constants.
 
 1. Show that the joint distribution forms an exponential family, and find a minimal sufficient statistic.
 
