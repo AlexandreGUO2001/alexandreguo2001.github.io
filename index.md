@@ -14,7 +14,7 @@ My academic interest lies in the field of **computational statistics**, **deep l
 
 I am also interested in *la langue française* (the French language), vernaculars of Chinese and minority languages in China ([click here](https://pan.baidu.com/s/1FCq0Ojw_r7KvD0xMTokveg?pwd=iihk) for a dictionary of Ningbo dialect, Wu Chinese, of which I am a native speaker), [China's railway system](https://www.openrailwaymap.org/), and video games (especially action games such as *Assassin's Creed* and *The Last of Us*).
 
-## Publications
+## Publications and Preprints
 
 Coming up in the future.
 
@@ -30,4 +30,4 @@ A handbook of learning mathematics on one's own in PKU (a tentative version).
 
 Some of my experience and advice in preparing for the GRE and TOEFL test (a tentative version).
 
-## <a href="articles/backup.html">Miscellaneous</a>
+<!-- ## <a href="articles/backup.html">Miscellaneous</a> -->
