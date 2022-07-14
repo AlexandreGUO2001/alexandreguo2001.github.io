@@ -4,7 +4,7 @@
 
 **Email**: `weiguo@pku.edu.cn`
 
-**WeChat ID**: AlexandreGuo2001
+**WeChat ID**: AlexandreGuo2001 (please identify yourself when adding me on WeChat)
 
 **Github**: [@AlexandreGUO2001](https://github.com/AlexandreGUO2001)
 
@@ -22,9 +22,9 @@ Coming up in the future.
 
 <a href="/talks/intro_stat.html">A Brief Introduction to the Field of Statistics (for Freshmen and Sophomores), Apr. 17th 2022, at PKU (In Chinese)</a>
 
-## <a href="/self_learning.html">Handbook for Self-Learning Mathematics</a>
+## <a href="/self_learning.html">Handbook for Self-Learning Statistics and Machine Learning (In Chinese)</a>
 
-A handbook of learning mathematics on one's own in PKU (a tentative version).
+A handbook of learning statistics and machine learning on one's own in school of mathematics, PKU (a tentative version).
 
 ## <a href="english/english_main.html">Tips for Learning English (In Chinese)</a>
 
