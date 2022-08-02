@@ -14,11 +14,13 @@ I am now an undergraduate in [School of Mathematical Sciences](http://www.math.p
 
 **Academic Intersets**
 
-1. Probabilistic Machine Learning: Bayesian theory, sampling methods (including MCMC, Langevin dynamics, etc.), variational inference.
+1. Probabilistic Machine Learning: Bayesian theory, sampling methods (MCMC, Langevin dynamics, etc.), variational inference.
 
-2. Deep Learning: deep generative modeling.
+2. Deep Learning: deep generative modeling with application in image synthesis.
 
 3. Theoretical Machine Learning: analysis of optimization and sampling methods, the gradient-flow perspective of machine learning.
+
+4. Stochastic Analysis.
 
 ---
 
