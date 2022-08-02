@@ -10,13 +10,19 @@
 
 I am now an undergraduate in [School of Mathematical Sciences](http://www.math.pku.edu.cn), [Peking University](https://www.pku.edu.cn). Previously, I graduated from Zhenhai High School of Zhejiang Province in 2019.
 
-My academic interest lies in the field of **computational statistics**, **deep learning** (especially the generative models) and **theoretical machine learning**.
+---
+
+**Academic Intersets**
+
+1. Probabilistic Machine Learning: Bayesian theory, sampling methods (including MCMC, Langevin dynamics, etc.), variational inference.
+
+2. Deep Learning: deep generative modeling.
+
+3. Theoretical Machine Learning: analysis of optimization and sampling methods, the gradient-flow perspective of machine learning.
+
+---
 
 I am also interested in *la langue française* (the French language), vernaculars of Chinese and minority languages in China ([click here](https://pan.baidu.com/s/1FCq0Ojw_r7KvD0xMTokveg?pwd=iihk) for a dictionary of Ningbo dialect, Wu Chinese, of which I am a native speaker), [China's railway system](https://www.openrailwaymap.org/), and video games (especially action games such as *Assassin's Creed* and *The Last of Us*).
-
-## Publications and Preprints
-
-Coming up in the future.
 
 ## Talks
 
@@ -30,4 +36,6 @@ A handbook of learning statistics and machine learning on one's own in school of
 
 Some of my experience and advice in preparing for the GRE and TOEFL test (a tentative version).
 
-<!-- ## <a href="articles/backup.html">Miscellaneous</a> -->
+## Publications and Preprints
+
+Coming up in the future.
