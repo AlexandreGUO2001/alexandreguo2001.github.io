@@ -15,7 +15,7 @@
 
 此项目灵感来源于 <https://csdiy.wiki/>。我希望借此总结经验，同时给后人提供一些选课和学习上的指导。
 
-本人选择的是数院的统计方向，主要研究领域为深度学习与理论机器学习，故**以下内容侧重本人熟悉的领域**。<font color=red><b>所有内容仅代表个人观点（从某种程度上也是夹带私货）</b></font>，欢迎提出意见和建议！
+本人选择的是数院的统计方向，主要研究领域为深度学习与理论机器学习，故**以下内容侧重本人熟悉的领域**。<font color=red><strong>所有内容仅代表个人观点（从某种程度上也是夹带私货，还请各位读者根据自身情况理性判断）</strong></font>，欢迎提出意见和建议！
 
 ## 培养方案及高年级课程先修关系综述
 
@@ -26,11 +26,11 @@
 - 二上：数学分析III，抽象代数，[概率论]
 - 二下：常微分方程，复变函数，概率论，数学模型/应用数学导论/机器学习基础，[数理统计]，[应用随机过程]
 
-注：**具体培养方案以当年官方公布的培养方案为准，此处仅供参考。**2021年秋季学期起概率论每学期均开，2022年春季学期起数理统计和应用随机过程每学期均开（这两门课并非全院必修课，只是统计方向的必修课，故也列在此处）。**某些方向**数学模型/应用数学导论/机器学习基础可相互替换，具体见培养方案。
+注：**具体培养方案以当年官方公布的培养方案为准，此处仅供参考。**2021 年秋季学期起概率论每学期均开，2022 年春季学期起数理统计和应用随机过程每学期均开（这两门课并非全院必修课，只是统计方向的必修课，故也列在此处）。**某些方向**数学模型/应用数学导论/机器学习基础可相互替换，具体见培养方案。
 
 ### 提前选课需要掌握的先修知识
 
-- 概率论：先修知识为数分高代，需要掌握多元函数的求导和积分（会算即可，初等概率论的考试里面计算必须熟练掌握，例如会说明多元正态分布 $\mathcal{N}(\mu,\Sigma)$ 的密度积分为什么等于 $1$[^3]），不要求掌握曲线积分、曲面积分、含参变量积分、Fourier 变换[^2]。
+- 概率论：先修知识为数分高代，需要掌握多元函数的求导和积分（会算即可，初等概率论的考试里面计算必须熟练掌握），不要求掌握曲线积分、曲面积分、含参变量积分、Fourier 变换[^2]。
 - 实变函数：官方培养方案为三上课程，可在二上与数分III同时学习（理由见后）。
 - 测度论：官方培养方案为三下课程。由于测度论和实变的内容重合度较大，学过实变再学测度论会相对简单，当然没有学过实变也不影响。除非天赋异禀，不建议跳过初等概率论直接学测度论和高等概率论。
 - 泛函分析：官方培养方案为三下课程。如二上学过实变，可在二下学习。是否需要实变作为前置知识见后。
@@ -42,13 +42,13 @@
 
 - 数值代数：官方培养方案为三上课程。先修知识为数分I、II和高代，如果大一结束后明确打算做计算数学方向可提前到二上选。
 - 数值分析：官方培养方案为三下课程。先修知识为数分高代，对概率论稍有了解（涉及 MCMC 算法）。个人感觉数值分析难度低于数值代数，如打算做计算数学方向且二下时间充足可二下选课。
-- 最优化方法：2022-2023学年之前为春季学期课程，另有一门课程“凸优化”秋季学期由文再文老师开；2022年秋季学期起两门课合并至秋季学期的“最优化方法”，由[文再文老师](https://bicmr.pku.edu.cn/~wenzw/)授课。先修知识为数分高代，要求熟练掌握向量和矩阵函数的导数[^7]。
+- 最优化方法：2022-2023 学年之前为春季学期课程，另有一门课程“凸优化”秋季学期由文再文老师开；2022 年秋季学期起两门课合并至秋季学期的“最优化方法”，由[文再文老师](https://bicmr.pku.edu.cn/~wenzw/)授课。先修知识为数分高代，要求熟练掌握向量和矩阵函数的导数[^7]。
 
 此外，应用数学导论（官方培养方案为二下课程）基本是数值代数和数值分析各选一些内容进行授课，重合度较高。
 
 ### 要不要提前选课？
 
-据笔者观察，从2020级起提前选课的学生人数剧增。<font color=red><b>强烈反对盲目跟风提前选课!</b></font>
+据笔者观察，从 2020 级起提前选课的学生人数剧增。<font color=red><b>强烈反对盲目跟风提前选课!</b></font>
 
 一上基本没有人会提前选课，除非入学前已经预习且对自己水平极其自信。
 
@@ -56,9 +56,9 @@
 
 1. 你的学习水平是否足够提前修高年级课程了？假如多学一门，有没有充足的时间？如果修官方培养方案的课程压力已经很大了，平时没有多余的时间，那么不建议提前选课！
 2. 提前选课需要的先修知识有没有熟练掌握？例如，如果多元微积分都算不熟练，就不要提前选概率论了。
-3. 是否有把握提前选课拿到较好的分数（85及以上，即“优秀”）？如果晚一年选，等先修知识都掌握扎实了，也许会有更高的分数。如果你不在意绩点（比如不需要保研或出国，只求及格毕业），那随意。
+3. 是否有把握提前选课拿到较好的分数（85 及以上，即“优秀”）？如果晚一年选，等先修知识都掌握扎实了，也许会有更高的分数。如果你不在意绩点（比如不需要保研或出国，只求及格毕业），那随意。
 4. 提前选课是出于什么目的？比较好的答案是为了早日找到自己感兴趣的方向、早日开始学习进阶课程、早日开始科研或实习，不好的答案是看别人提前选自己也想提前选，或者说别人都选我不选觉得过意不去。提前选课不等于学习能力强，选课多并不是值得炫耀的事情，数院里这样的反面教材比比皆是。其实换个角度说，提前**自学**跟提前选课差不多，只是一个要完成作业完成考试拿到分数。如果对某门课感兴趣，那先自学起来也挺好的。
-5. 是否需要选**实验班**同理。如果你对这门课感兴趣且有信心能学好，这门课对你今后的研究方向也有用，那么选实验班是一个很好的选择。至于分数，虽然实验班考试会比较难，但是老师一般会调分，优秀率通常会达到60%（普通班优秀率至多40%）；此外，2019级起实验班成绩在保研分数计算时会乘1.05倍（具体见数院门户的官方保研细则，此处仅供参考），所以如果学习水平过硬不用太担心实验班的给分问题。
+5. 是否需要选**实验班**同理。如果你对这门课感兴趣且有信心能学好，这门课对你今后的研究方向也有用，那么选实验班是一个很好的选择。至于分数，虽然实验班考试会比较难，但是老师一般会调分，优秀率通常会达到 60%（普通班优秀率至多 40%）；此外，2019 级起实验班成绩在保研分数计算时会乘 1.05 倍（具体见数院门户的官方保研细则，此处仅供参考），所以如果学习水平过硬不用太担心实验班的给分问题。
 
 ## 英文阅读和写作能力
 
@@ -70,13 +70,13 @@
 
 ## 一些小技巧
 
-搜英文的课本/论文/教学资料尽量用 [Bing](https://www.bing.com)（选择“国际版”，无需XX）或 [Google](https://www.google.com.hk/)（需要XX，参考[这里](https://wallesspku.com) 或 [这里](https://igghelper.com/) [^8]），用百度搜效果极差。这里“教学资料”主要指其他大学某些课程的网站，诸如著名的 [Stanford CS229: Machine Learning](http://cs229.stanford.edu/) 和 [Stanford STATS214 / CS229M: Machine Learning Theory](http://web.stanford.edu/class/stats214/) 。
+搜英文的课本/论文/教学资料尽量用 [Bing](https://www.bing.com)（选择“国际版”，无需XX）或 [Google](https://www.google.com.hk/)（需要XX，参考 [WallessPKU](https://wallesspku.com) 或 [igghelper](https://igghelper.com/) [^8]），用百度搜效果极差。这里“教学资料”主要指其他大学某些课程的网站，诸如著名的 [Stanford CS229: Machine Learning](http://cs229.stanford.edu/) 和 [Stanford STATS214 / CS229M: Machine Learning Theory](http://web.stanford.edu/class/stats214/) 。
 
-搜索出版物（包括书本、论文等）常用 [Google Scholar](https://scholar.google.cz/schhp?hl=zh-CN) （需要XX），但是速度不及[镜像](http://scholar.scqylaw.com/)快。
+搜索出版物（包括书本、论文等）常用 [Google Scholar](https://scholar.google.com/) （需要XX），但是速度不及[镜像](http://scholar.scqylaw.com/)快。
 
-[Arxiv](https://arxiv.org)[^9] 是一个公开发布论文预印本的网站，很多人写完论文后会第一时间挂到这里，再投稿发表。很多论文均可在这上面下载。注意很多顶会的官方网站论文都是正文和附录分离的，但 Arxiv 上一般都合并在一个文件中。
+[Arxiv](https://arxiv.org) 是一个公开发布论文预印本的网站 [^9]，很多学者写完论文后会第一时间挂到这里，再投稿发表。很多论文均可在这上面下载。注意很多顶会的官方网站论文都是正文和附录分离的，但 Arxiv 上一般都合并在一个文件中。
 
-不少数学教材和论文都由 [Springer](https://link.springer.com/) 出版、发表，可以在此免费下载电子课本。
+不少数学教材和论文都由 [Springer](https://link.springer.com/) 出版、发表，可以在此免费下载电子课本，例如著名的 [*Linear Algebra Done Right*](https://link.springer.com/book/10.1007/978-3-319-11080-6)。
 
 
 
@@ -127,11 +127,11 @@
 
 1. 陈家鼎, 孙山泽, 李东风, and 刘力平. *数理统计学讲义*. 高等教育出版社, 2015.
 2. George Casella, and Roger L. Berger. *Statistical inference*. Cengage Learning, 2021.
-3. Jun Shao. *Mathematical statistics*. Springer Science & Business Media, 2003.
+3. Jun Shao. [*Mathematical statistics*](https://link.springer.com/book/10.1007/b97553). Springer Science & Business Media, 2003. [Exercises and Solutions](https://link.springer.com/book/10.1007/0-387-28276-9).
 
 前两本为普通版教材，第三本为数理统计实验班以及高等统计学的教材。[第一本非常不推荐](https://www.zhihu.com/question/438130809/answer/1664210460)，此书写作风格过于晦涩，初学者不易读懂，且内容较为陈旧。第二本是初等数理统计非常好的入门教材，第三本适合熟悉测度论的人，但实验班授课时不讲授涉及测度论的证明。其他推荐课本和阅读材料可见[李通宇学长的个人主页](http://scholar.pku.edu.cn/lity/classes/21F-MathStatH-TA/materials/readings)。这里个人认为比较好的自学教材是：
 
-Larry Wasserman. *All of statistics: a concise course in statistical inference*. Vol. 26. New York: Springer, 2004.
+Larry Wasserman. [*All of statistics: a concise course in statistical inference*](https://link.springer.com/book/10.1007/978-0-387-21736-9). Vol. 26. New York: Springer, 2004.
 
 ## 分析功底：实变函数、测度论、泛函分析、偏微分方程
 
@@ -153,7 +153,7 @@ Larry Wasserman. *All of statistics: a concise course in statistical inference*.
 
 官方教材：程士宏. *测度论与概率论基础*. 北京大学出版社, 2006.
 
-测度论是讲述清楚概率中许多概念的严格语言，对统计方向的学生而言是为高等概率论做准备的课程。这本官方教材写得还不错，理论体系也非常清晰，个人觉得唯一的槽点在于第一章引入一大堆集合系的概念以后让人摸不着头脑，其实如果整理成两条链（“$\pi$系$\subset$半环$\subset$环$\subset$域$\subset$$\sigma$域” 和 单调系$\subset$$\lambda$系$\subset$$\sigma$域”）以后再看各种生成以及扩张关系会非常清晰。课程会讲授前四或五章，最后一章是高等概率论的内容。
+测度论是讲述清楚概率中许多概念的严格语言，对统计方向的学生而言是为高等概率论做准备的课程。这本官方教材写得还不错，理论体系也非常清晰，个人觉得唯一的槽点在于第一章引入一大堆集合系的概念以后让人摸不着头脑，其实如果整理成两条通向 $\sigma$ 域的链（“$\pi$ 系 $\subset$ 半环 $\subset$ 环 $\subset$ 域 $\subset\sigma$ 域” 和 单调系 $\subset\lambda$ 系 $\subset\sigma$ 域”）以后再看各种生成以及扩张关系会非常清晰。课程会讲授前四或五章（取决于教学进度，但第五章无穷维的乘积测度空间及 Kolmogorov 扩张定理在随机过程中具有重要作用，所以如果上课没讲最好自学一下），最后一章是高等概率论的内容。
 
 测度论和实变两门课重合程度比较高。实变主要研究的是 $\mathbb{R}^d$ 上的 Lebesgue 测度，包含点集拓扑、Lebesgue 测度的建立、Lebesgue 积分、求导与积分间的关系（Newton-Leibnitz 公式）和 $L^p$ 空间等内容，而测度论研究的是更为一般的测度空间 $(X,\mathcal{F},\mu)$ ，研究其上集合系的关系、半环上测度扩张到 $\sigma$ 域上、积分、 $L^p$ 空间、求导与积分间的关系（Radon-Nikodym 导数）以及（有穷维、可列维、任意无穷维）的乘积空间。因此，学过一门以后学另一门相对容易，大部分学生是先学实变后学测度论，如果想抄捷径的话可以直接看 Folland 书的前三章，这里涵盖了实变和测度论课程中的大部分内容。
 
@@ -183,11 +183,17 @@ Larry Wasserman. *All of statistics: a concise course in statistical inference*.
 
 偏微分方程不是统计方向的选修课程，但在机器学习中可能会用到，统计方向的学生可根据自身情况选择是否学习。
 
-## 概率统计进阶：高等概率论、随机过程（包括随机微分方程）、高维概率论与高维统计学
+## 概率统计进阶：高等概率论与高等统计学、随机过程（包括随机微分方程）、高维概率论与高维统计学
 
-**高等概率论**
+**高等概率论与高等统计学**
 
-官方教材：Rick Durrett. [*Probability: theory and examples*](https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf). Vol. 49. Cambridge university press, 2019.
+<u>高等概率论</u>官方教材：Rick Durrett. [*Probability: theory and examples*](https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf). Vol. 49. Cambridge university press, 2019.
+
+课程讲授前四章（测度论、大数定律、中心极限定理、鞅论），后面内容是随机过程论的讲授内容。
+
+<font color=red>暂无评价</font>
+
+<u>高等统计学</u>官方教材：Jun Shao. [*Mathematical statistics*](https://link.springer.com/book/10.1007/b97553). Springer Science & Business Media, 2003. [Exercises and Solutions](https://link.springer.com/book/10.1007/0-387-28276-9).
 
 <font color=red>暂无评价</font>
 
@@ -206,14 +212,22 @@ Larry Wasserman. *All of statistics: a concise course in statistical inference*.
 
 [钱敏平的原版书也是我个人非常不满意的一半教材](https://www.math.pku.edu.cn/teachers/dayue/Homepage/asp.htm)，前两章内容基本上顺从 Norris 书的思路，但是太过简洁，很多证明一概留给读者作为习题，而且符号系统十分复杂，如需自学还是建议用 Norris。当然这门课讲的内容不涉及测度论，Markov 链也仅限于离散状态空间的情形，第三章 Brown 运动基本上大部分结论是会用会算即可。
 
+<u>随机过程论</u>官方教材：Rick Durrett. [*Probability: theory and examples*](https://services.math.duke.edu/~rtd/PTE/PTE5_011119.pdf). Vol. 49. Cambridge university press, 2019.
+
 <u>应用随机分析</u>官方教材：[刘勇老师应用随机分析课程主页（含讲义）](https://www.math.pku.edu.cn/teachers/liuyong/teachingindex.html).
 
 推荐教材：
 
 1. Weinan E, Tiejun Li, and Eric Vanden-Eijnden. *Applied stochastic analysis*. Vol. 199. American Mathematical Soc., 2021.
-2. Bernt Øksendal. [*Stochastic differential equations: an introduction with applications*](https://link.springer.com/book/10.1007/978-3-642-14394-6). Springer Science & Business Media, 2013.
-3. Simo Särkkä, and Arno Solin. [*Applied stochastic differential equations*](https://users.aalto.fi/~ssarkka/pub/sde_book.pdf). Vol. 10. Cambridge University Press, 2019.
+2. Simo Särkkä, and Arno Solin. [*Applied stochastic differential equations*](https://users.aalto.fi/~ssarkka/pub/sde_book.pdf). Vol. 10. Cambridge University Press, 2019.
+3. Bernt Øksendal. [*Stochastic differential equations: an introduction with applications*](https://link.springer.com/book/10.1007/978-3-642-14394-6). Springer Science & Business Media, 2013.
 4. Ioannis Karatzas, and Steven Shreve. [*Brownian motion and stochastic calculus*](https://link.springer.com/book/10.1007/978-1-4612-0949-2). Vol. 113. Springer Science & Business Media, 2012.
+
+第一本个人认为是很好的随机分析入门教材，内容包括 Markov 链、跳过程、Brown 运动、随机微分方程以及一些随机分析的高阶内容，力求让读者了解这个领域的大体框架，尤其是注重上机模拟。书中大部分定理都不提供严格证明，对于入门读者而言完全足够。
+
+<font color=red>暂无评价</font>
+
+<u>随机分析</u>：李通宇学长[随机分析(PKU21F)](https://zhuanlan.zhihu.com/p/448760383)课程笔记。
 
 <font color=red>暂无评价</font>
 
@@ -226,6 +240,14 @@ Larry Wasserman. *All of statistics: a concise course in statistical inference*.
 1. Ramon van Handel. [*Probability in high dimension*](https://web.math.princeton.edu/~rvan/APC550.pdf). PRINCETON UNIV NJ, 2014.
 
 2. Martin J. Wainwright. *High-dimensional statistics: A non-asymptotic viewpoint*. Vol. 48. Cambridge University Press, 2019.
+
+<font color=red>暂无评价</font>
+
+**其他概率统计进阶课程**
+
+<u>现代统计模型</u>：李通宇学长[现代统计模型(PKU20S)](https://zhuanlan.zhihu.com/p/106896222)课程笔记。
+
+<u>高等统计学II</u>：李通宇学长[高等统计学II (PKU21S)](https://zhuanlan.zhihu.com/p/345935324)课程笔记。
 
 <font color=red>暂无评价</font>
 
@@ -254,9 +276,11 @@ Luigi Ambrosio, Nicola Gigli, and Giuseppe Savaré. [*Gradient flows: in metric 
 
 ### $\mathrm\LaTeX$
 
-$\mathrm\LaTeX$ 是目前绝大部分数学和计算机科学的出版物所使用的的排版工具。高中阶段的数学试卷多用 Word 编辑，数学公式采用 Word 自带的公式编辑器或 MathType，但这些无法高效地完成复杂论文排版的工作，尤其是在数学公式和图片极多的情况下。$\mathrm\LaTeX$ 和常见的“所见即所得”的 Word 之间最大区别是，用户只需关注写作的内容，而排版则完全交给软件自动完成，而且整体地变换排版风格较为容易。
+$\mathrm\LaTeX$ 是目前绝大部分数学和计算机科学的出版物所使用的的排版工具，在本科期间，数学课程的大作业以及论文基本都需要用 $\rm\LaTeX$ 进行排版。
 
-$\mathrm\LaTeX$ 的环境配置是个非常麻烦的问题，过程繁琐且容易出错。安装 TexLive（编译器）可参考这篇文章：[TexLive 2020 安装指南](https://zhuanlan.zhihu.com/p/136931926)。我本人比较喜欢的开发环境是 VsCode，安装参考这篇文章：[使用VSCode编写LaTeX](https://zhuanlan.zhihu.com/p/38178015)。如果嫌麻烦，可以使用在线的编辑环境 [Overleaf](https://www.overleaf.com/)（注册账号需要XX）。Overleaf 上面还提供了很多模板，可以免费下载。
+高中时期的数学试卷多用 Word 编辑，数学公式采用 Word 自带的公式编辑器或 MathType，但这些无法高效地完成复杂论文和书籍排版的工作，尤其是在数学公式和图片极多的情况下。$\mathrm\LaTeX$ 和常见的“所见即所得” (*WYSIWYG*, what you see is what you get) 的 Word 之间最大区别是，用户只需关注写作的内容，而排版则完全交给软件自动完成，且整体地变换排版风格较为容易。
+
+$\mathrm\LaTeX$ 的环境配置是个非常麻烦的问题，过程繁琐且容易出错。安装 TexLive（编译器）可参考这篇文章：[TexLive 2020 安装指南](https://zhuanlan.zhihu.com/p/136931926)。我本人比较喜欢的开发环境是 VsCode，安装参考这篇文章：[使用VSCode编写LaTeX](https://zhuanlan.zhihu.com/p/38178015)。如果嫌麻烦，可以使用在线的编辑环境 [Overleaf](https://www.overleaf.com/)（注册账号需要XX）。Overleaf 上面还提供了很多模板，如个人简历、论文、演讲稿等，可以免费下载。
 
 ### Python 入门
 
@@ -352,24 +376,22 @@ Richard S. Sutton, and Andrew G. Barto. [*Reinforcement learning: An introductio
 
 
 
-<font color=red>**未完待续**</font>
 
-| **<a href="/index.html">返回主页</a>** | **最后更新：2022年7月31日** |
-
-
+| **<a href="/index.html">返回主页</a>** | **此版本非最终版，未完待续。** |
+| :------------------------------------: | :----------------------------: |
+|                                        |   **最后更新：2022年8月3日**   |
 
 
 
 [^1]: 例如这两本本人非常不喜欢：(1) 陈家鼎, 孙山泽, 李东风, and 刘力平. *数理统计学讲义*. 高等教育出版社, 2015. (2) 赵春来, and 徐明曜. *抽象代数I*. 北京大学出版社, 2008. 提示一下，本人抽代79分，本科至今最低分。
 [^2]: 当然你可能会遇到计算特征函数的问题，虽然其本质就是 Fourier 变换，但初等概率论课程里只要知道正态分布的特征函数就行了。
-[^3]: 其实记住结论就行，概率论的课不会考你为什么这个积分是这么算的。
 [^4]: 学校门户提供正版 MATLAB 软件的下载渠道，如果嫌下载安装麻烦可以用开源编程语言 [GNU Octave](https://octave.org/index)，语法基本与 MATLAB 相同，仅包含 MATLAB 的基础功能（本科课程应该完全够用）。
 
 [^5]: 事实上可能对基础数学中的某些分支也是帮助甚微的，例如分析方向。本人不是特别了解，所以不敢说得太肯定。
 [^6]: 前两门本人没有选过，对课程内容的理解并不是很深刻，不敢多做评价。
-[^7]: 这些数分III不会细讲，参考：Kaare Brandt Petersen, and Michael Syskind Pedersen. [*The matrix cookbook*](https://ece.uwaterloo.ca/~ece602/MISC/matrixcookbook.pdf). Technical University of Denmark 7.15 (2008): 510. 主要了解矩阵变量函数求导的定义 $\frac{\partial f(\mathbf{X})}{\partial\mathbf{X}}=\left(\frac{\partial f(\mathbf{X})}{\partial X_{ij}}\right)_{ij}$，另外常见的一些求导规则需要知道，比较陌生的遇到了再查书吧。
+[^7]: 这些数分III不会细讲，参考：Kaare Brandt Petersen, and Michael Syskind Pedersen. [*The matrix cookbook*](https://ece.uwaterloo.ca/~ece602/MISC/matrixcookbook.pdf). Technical University of Denmark 7.15 (2008): 510. 主要了解矩阵变量函数求导的定义 $\frac{\partial f(\mathbf{X})}{\partial\mathbf{X}}=\left(\frac{\partial f(\mathbf{X})}{\partial X_{ij}}\right)_{ij}$​，另外常见的一些求导规则需要知道，比较陌生的遇到了再查书吧。
 
-[^8]: 后者的免费版用来上 [Google Scholar](https://scholar.google.cz/schhp?hl=zh-CN) 和 [Colab](https://colab.research.google.com/) 比较方便。 
+[^8]: igghelper 的免费版可以访问 Google 旗下的几乎所有服务（除 YouTube 和 Drive），虽然速度一般，但用来上 [Google Scholar](https://scholar.google.cz/schhp?hl=zh-CN) 和 [Colab](https://colab.research.google.com/) 比较方便。[Colab](https://colab.research.google.com/) 提供云端运行 Python 代码的服务，有免费 GPU 资源，不想自己电脑上炼丹的话可以用这个。此外，igghelper 还可访问 [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)，以及加速 [GitHub](https://github.com/) 的访问。
 [^9]: 音同“archive”，这里的”x”本质上是希腊字母“χ​”。不要念成“arksiv“，显得没文化。
 
 [^10]: 本人当时上的 ODE 由马翔老师授课。马翔老师作为几何学专家，讲的内容偏向于动力系统，教材采用这本：Steven H. Strogatz. *Nonlinear dynamics and chaos: with applications to physics, biology, chemistry, and engineering*. CRC press, 2018. 因为后来他没有再担任此课程讲师，这本教材不列入参考书目。
